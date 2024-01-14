@@ -1,4 +1,6 @@
 # Parallax-Page
+<p>https://jomanahmohammed.github.io/Parallax-Page/</p>
+
 <h2> 🔷 Simple Parallax Scrolling Effect with CSS &amp; Javascript 🔷</h2>
 
 <h3> 👩🏻‍💻    skills : </h3> 
